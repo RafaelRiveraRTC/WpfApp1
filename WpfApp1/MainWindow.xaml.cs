@@ -14,6 +14,8 @@ namespace WpfApp1
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+    //hellow my name is rafael rivera
+    //this class is programing 2
     public partial class MainWindow : Window
     {
         public MainWindow()
